@@ -28,7 +28,7 @@ const MovieFooter = props => (
       </Button>
       <Button
         vertical
-        active={props.navigationState.index === 2}
+        active={props.navigationState.index === 3}
         onPress={() => props.navigation.navigate('MovieUpcoming')}
       >
         <Text>Upcoming</Text>
