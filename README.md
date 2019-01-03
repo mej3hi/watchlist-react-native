@@ -1,5 +1,5 @@
 # Watchlist 
-Watchlist er vefsíða sem hægt er að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb).
+Watchlist er smáforrit fyrir Android og iPhone snjalltæki sem hægt er að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb).
 
 ## Forrit 
 Javascript, React-native, NodeJS.
@@ -18,5 +18,5 @@ Hægt er að hala niður forritinu á þessari síðu (clone or download).
 ![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/myndWRN2.png)
 
 
-### Höfundi
+### Höfund
 Martin Einar Jensen  
